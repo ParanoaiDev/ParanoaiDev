@@ -1,98 +1,140 @@
 <div align="center">
 
-# 🔬 Rovel Labs
+<img src="assets/banner.svg" alt="Paranoia Dev: building software together with Claude and other AI agents" width="100%">
 
-### **Independent Open-Source Software Laboratory**
+<br><br>
 
-*Создаём быстрые, полезные и бескомпромиссно приватные инструменты, приложения и боты.*
+[![Followers](https://img.shields.io/github/followers/ParanoaiDev?style=for-the-badge&logo=github&label=followers&color=D97757&labelColor=0E0F1A)](https://github.com/ParanoaiDev?tab=followers)
+[![Rovel Labs](https://img.shields.io/badge/Rovel_Labs-website-D97757?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0E0F1A)](https://rovel-labs.fourtopaph.workers.dev/)
+[![Built with Claude](https://img.shields.io/badge/built_with-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0E0F1A)](https://claude.com/claude-code)
 
-<br />
+</div>
 
-[![Official Website](https://img.shields.io/badge/Official%20Website-rovel--labs.fourtopaph.workers.dev-6366f1.svg?style=for-the-badge&logo=cloudflare&logoColor=white)](https://rovel-labs.fourtopaph.workers.dev/)
-[![GitHub Followers](https://img.shields.io/github/followers/RovelLabs?label=Followers&style=for-the-badge&color=238636)](https://github.com/RovelLabs)
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%99%A5-ff69b4.svg?style=for-the-badge)](https://github.com/RovelLabs)
+## 👾 Hey, I'm Paranoia
 
-<br />
+I'm an indie developer who builds software **together with AI**. Claude Code is my everyday pair programmer, and I bring in other agents and local models when a job calls for them.
 
+I like shipping real things fast: apps, Telegram bots, game mods, Windows tools and automation. Most of it runs under **Rovel Labs**, my open-source lab.
+
+```ts
+const paranoia = {
+  builds: ['apps', 'bots', 'games', 'mods', 'automation', 'dev tools'],
+  pairsWith: ['Claude Code', 'Codex', 'local models'],
+  believesIn: ['local-first', 'zero telemetry', 'open source', 'obsessive UX'],
+  currentlyShipping: 'clawd-buddy',
+}
 ```
-   ____                 _   _          _         
-  |  _ \ _____   _____ | | | |    __ _| |__  ___ 
-  | |_) / _ \ \ / / _ \| | | |   / _` | '_ \/ __|
-  |  _ < (_) \ V /  __/| | | |__| (_| | |_) \__ \
-  |_| \_\___/ \_/ \___||_| |_____\__,_|_.__/|___/
-```
 
-**«Открытый код • Локальные данные • Нулевая телеметрия»**
+## 🚀 Featured projects
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### [🪲 clawd-buddy](https://github.com/ParanoaiDev/clawd-buddy)
+A pixel pet for the Claude desktop app. Clawd lives above your prompt box, reacts to what Claude does and speaks 15 languages.
 
-## 🏛 О лаборатории (About Rovel Labs)
+`TypeScript` `SVG` `Claude plugin`
 
-**Rovel Labs** — независимая лаборатория разработки свободного программного обеспечения. Мы создаём софт нового поколения, где во главе угла стоят **пользователь**, **автономность** и **скорость**.
+</td>
+<td width="50%" valign="top">
 
-### 💡 Наши принципы (Core Philosophy)
+### [🌐 NetWard](https://github.com/ParanoaiDev/netward)
+An open-source internet resilience and diagnostics companion for Windows, CLI and Android.
 
-* 🛡️ **Zero Telemetry & True Privacy**: Никаких скрытых трекеров, пикселей отслеживания, рекламы или продажи пользовательских данных.
-* ⚡ **Local-First Architecture**: Все вычисления и базы данных работают прямо на устройстве пользователя. Приложения функционируют оффлайн и молниеносно.
-* 🔓 **100% Free & Open Source**: Весь исходный код открыт под свободными лицензиями (MIT) для независимого аудита и развития сообществом.
-* 🎨 **Obsession with UX**: Приятные микровзаимодействия, плавные анимации, тактильный отклик и адаптивность под мобильные и десктопные платформы.
+`C#` `.NET` `WPF`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Флагманские проекты (Featured Projects)
+### [💸 Skladno](https://github.com/ParanoaiDev/Skladno)
+A fast local-first expense splitter with debt minimization, for iOS, Android, macOS and Windows.
 
-| Проект | Описание | Стек | Ссылки |
-| :--- | :--- | :--- | :---: |
-| 💸 **[Складно (Skladno)](https://github.com/RovelLabs/2-proect)** | Ультрабыстрый local-first сплиттер совместных расходов с жадной минимизацией транзакций, переводами по СБП и релизами для **iOS, Android APK, macOS DMG и Windows EXE**. | `React` `TypeScript` `Vite` `PWA` `Capacitor` | [![Repo](https://img.shields.io/badge/GitHub-2--proect-6366f1.svg?style=flat-square)](https://github.com/RovelLabs/2-proect) |
-| 🤫 **[WhisperBox Bot](https://github.com/RovelLabs/whisperbox-bot)** | Полностью анонимный Telegram-бот обратной связи, вопросов и признаний. Метод `copy_message` без раскрытия профиля, двусторонние ответы через реплаи, поддержка голосовых, кружочков и медиа. | `Python 3.11` `Aiogram 3` `SQLite` `Docker` | [![Repo](https://img.shields.io/badge/GitHub-whisperbox--bot-2ca5e0.svg?style=flat-square)](https://github.com/RovelLabs/whisperbox-bot) |
-| 🌐 **[Portloom](https://github.com/RovelLabs/portloom)** | Высокопроизводительные инструменты маршрутизации, проксирования и оптимизации сетевых соединений. | `Go` `Python` `Networking` | [![Repo](https://img.shields.io/badge/GitHub-portloom-10b981.svg?style=flat-square)](https://github.com/RovelLabs/portloom) |
-| 🔮 **Vanta & Rain** | Экспериментальные интерфейсы и утилиты автоматизации от лаборатории Rovel Labs. | `Cloudflare Workers` `Node.js` | [![Web](https://img.shields.io/badge/Web-Showcase-f59e0b.svg?style=flat-square)](https://rovel-labs.fourtopaph.workers.dev/) |
+`TypeScript` `React` `Capacitor`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🛠 Технологический стек (Tech Stack)
+### [⚡ Portloom](https://github.com/ParanoaiDev/portloom)
+A local developer gateway for Windows: ports, hosts profiles, 1-click trusted SSL and a reverse proxy with webhook inspection.
+
+`TypeScript` `Windows`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🤫 WhisperBox Bot](https://github.com/ParanoaiDev/whisperbox-bot)
+A fully anonymous Telegram feedback bot with two-way replies that never reveal a profile.
+
+`Python` `Aiogram 3` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### [🎮 Pulse Client](https://github.com/ParanoaiDev/111)
+A custom Minecraft 1.20.1 Fabric client with its own launcher, menu, visuals and HUD. No gameplay advantages.
+
+`Java` `Fabric` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🧠 OPERON](https://github.com/ParanoaiDev/agy)
+A local-first autonomous operating layer for personal automation and on-device intelligence.
+
+`JavaScript` `Cloudflare`
+
+</td>
+<td width="50%" valign="top">
+
+### [🤖 ArtBay Publisher](https://github.com/ParanoaiDev/ArtBay-Publisher-FunPay-bot-)
+A fast local bridge between Telegram and FunPay for publishing listings in bulk.
+
+`Go` `Telegram` `Windows`
+
+</td>
+</tr>
+</table>
+
+## 🛠 Tech I work with
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,python,fastapi,sqlite,docker,cloudflare,linux,git,githubactions" alt="Rovel Labs Tech Stack" />
-</a>
-
-<br /><br />
-
-| Область | Технологии и Инструменты |
-| :--- | :--- |
-| **Frontend & UI/UX** | TypeScript, React 18/19, Vite, Tailwind CSS, Lucide Icons, Canvas Confetti |
-| **Backend & Bots** | Python 3.10+, Aiogram 3.x, asyncio, FastAPI, Node.js |
-| **Data & Storage** | LocalStorage, IndexedDB, SQLite3, In-Memory Caching |
-| **Cross-Platform** | Progressive Web Apps (PWA), Capacitor (Android/iOS), Tauri/Electron |
-| **DevOps & Cloud** | Docker, Docker Compose, Cloudflare Workers & Pages, GitHub Actions CI/CD |
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,python,go,cs,dotnet,java,docker,cloudflare,linux,git,githubactions&theme=dark" alt="TypeScript, JavaScript, React, Vite, Tailwind, Python, Go, C#, .NET, Java, Docker, Cloudflare, Linux, Git, GitHub Actions"></a>
 
 </div>
 
----
-
-## 📊 Статистика активности (GitHub Overview)
+## 🤝 My AI crew
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RovelLabs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="RovelLabs GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RovelLabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+![Claude Code](https://img.shields.io/badge/Claude_Code-daily_pair_programmer-D97757?style=flat-square&logo=anthropic&logoColor=white&labelColor=0E0F1A)
+![Codex](https://img.shields.io/badge/Codex-second_opinion-D97757?style=flat-square&logo=openai&logoColor=white&labelColor=0E0F1A)
+![Ollama](https://img.shields.io/badge/Ollama-local_models-D97757?style=flat-square&logo=ollama&logoColor=white&labelColor=0E0F1A)
 
 </div>
 
----
+## 🧭 How I build
 
-## 🌐 Связь и ресурсы (Connect with Rovel Labs)
+- 🛡️ **Privacy first.** No hidden trackers, no ads, no selling data.
+- ⚡ **Local-first.** Apps stay fast and keep working offline wherever they can.
+- 🔓 **Open source.** Read the code, fork it, improve it.
+- 🎨 **Obsessed with UX.** Small details and smooth motion matter.
 
-- 🌍 **Официальный сайт:** [rovel-labs.fourtopaph.workers.dev](https://rovel-labs.fourtopaph.workers.dev/)
-- 🐙 **GitHub Организация:** [@RovelLabs](https://github.com/RovelLabs)
-- 🤝 **Контрибьюции и идеи:** Мы открыты к пулл-реквестам и баг-репортам во всех наших репозиториях!
-
-<br />
+## 🐍 Contributions
 
 <div align="center">
-  <sub>© 2026 <strong>Rovel Labs</strong>. Свободный код во имя свободного интернета.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ParanoaiDev/ParanoaiDev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ParanoaiDev/ParanoaiDev/output/github-snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/ParanoaiDev/ParanoaiDev/output/github-snake-dark.svg">
+</picture>
+
 </div>
