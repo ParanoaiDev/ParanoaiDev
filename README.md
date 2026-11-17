@@ -36,67 +36,17 @@ A pixel pet for the Claude desktop app. Clawd lives above your prompt box, react
 
 `TypeScript` `SVG` `Claude plugin`
 
-</td>
-<td width="50%" valign="top">
-
-### [🌐 NetWard](https://github.com/ParanoaiDev/netward)
-An open-source internet resilience and diagnostics companion for Windows, CLI and Android.
-
-`C#` `.NET` `WPF`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [💸 Skladno](https://github.com/ParanoaiDev/Skladno)
-A fast local-first expense splitter with debt minimization, for iOS, Android, macOS and Windows.
-
-`TypeScript` `React` `Capacitor`
+<a href="https://github.com/ParanoaiDev/clawd-buddy"><img src="https://raw.githubusercontent.com/ParanoaiDev/clawd-buddy/main/assets/demo.gif" alt="Clawd walking above the Claude prompt box and reacting to what Claude does" width="100%"></a>
 
 </td>
 <td width="50%" valign="top">
 
-### [⚡ Portloom](https://github.com/ParanoaiDev/portloom)
-A local developer gateway for Windows: ports, hosts profiles, 1-click trusted SSL and a reverse proxy with webhook inspection.
+### [🌸 Flora for Obsidian](https://github.com/ParanoaiDev/obsidian-flora)
+A new look for all of Obsidian and a graph of your notes that feels alive: glass UI, living neurons in 2D and 3D, a spider that finds missing links and live wallpapers.
 
-`TypeScript` `Windows`
+`JavaScript` `WebGL2` `Obsidian plugin`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🤫 WhisperBox Bot](https://github.com/ParanoaiDev/whisperbox-bot)
-A fully anonymous Telegram feedback bot with two-way replies that never reveal a profile.
-
-`Python` `Aiogram 3` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### [🎮 Pulse Client](https://github.com/ParanoaiDev/111)
-A custom Minecraft 1.20.1 Fabric client with its own launcher, menu, visuals and HUD. No gameplay advantages.
-
-`Java` `Fabric` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🧠 OPERON](https://github.com/ParanoaiDev/agy)
-A local-first autonomous operating layer for personal automation and on-device intelligence.
-
-`JavaScript` `Cloudflare`
-
-</td>
-<td width="50%" valign="top">
-
-### [🤖 ArtBay Publisher](https://github.com/ParanoaiDev/ArtBay-Publisher-FunPay-bot-)
-A fast local bridge between Telegram and FunPay for publishing listings in bulk.
-
-`Go` `Telegram` `Windows`
+<a href="https://github.com/ParanoaiDev/obsidian-flora"><img src="https://raw.githubusercontent.com/ParanoaiDev/obsidian-flora/main/assets/screenshots/shapes.webp" alt="Eight shapes that Flora 3D builds from the notes of one vault: human, heart, eye, DNA, butterfly, jellyfish, flower and planet" width="100%"></a>
 
 </td>
 </tr>
