@@ -5,7 +5,6 @@
 <br><br>
 
 [![Followers](https://img.shields.io/github/followers/ParanoaiDev?style=for-the-badge&logo=github&label=followers&color=D97757&labelColor=0E0F1A)](https://github.com/ParanoaiDev?tab=followers)
-[![Rovel Labs](https://img.shields.io/badge/Rovel_Labs-website-D97757?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0E0F1A)](https://rovel-labs.fourtopaph.workers.dev/)
 [![Built with Claude](https://img.shields.io/badge/built_with-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0E0F1A)](https://claude.com/claude-code)
 
 </div>
